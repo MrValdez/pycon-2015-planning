@@ -18,16 +18,17 @@ Committees and Chairs:
 3. **Stage-hand team**
 
    Chair: Josef Monje
-  * responsible for video coverage.
-  * responsible for extra projector, microphone, tables, laptop, etc.
+  * responsible for ensuring that our [Code of Conduct](http://pycon-2014.python.ph/pages/code-of-conduct.html) is enforced throughout the conference.
+  * responsible for media coverage (pictures and video).
+  * responsible for acquiring and setting up extra equipments (projector, microphone, tables, laptop, etc) in case of failure.
   * should be on standby in case something goes wrong on-stage.
   * should see to the needs of the audience.
-  * responsible for ensuring that our [Code of Conduct](http://pycon-2014.python.ph/pages/code-of-conduct.html) is enforced throughout the conference.
 
 4. **Fundraising**
 
    Chair: Nadine Jamilla and Stef Sy
-  * responsible for talking with the sponsors and looking for other sponsors.
+  * responsible for communicating with the sponsors. 
+  * responsible in looking for sponsors.
 
 5. **Marketing and Community Relations (Outreach)**
 
@@ -40,10 +41,10 @@ Committees and Chairs:
   * responsible for informing participants of [Code of Conduct](http://pycon-2014.python.ph/pages/code-of-conduct.html) prior to conference.
   * Filipino hospitality for our foreign speakers 
    * Accomodation for foreign speakers/guests 
-   * Merienda
    * Meeting foreign speakers/guests at the airport
    * escort foreign speakers/guests to their hotel
    * immigration letters
+   * Merienda for all speakers
 
 6. **Program Committee**
 
